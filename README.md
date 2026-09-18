@@ -4,11 +4,11 @@ A multi-threaded TCP port scanner built in Python using socket programming to de
 
 ## Overview
 
-This tool scans a target IP address for open ports across the most commonly used TCP ports. It uses Python's `concurrent.futures` module to run scans in parallel, making it faster.
+This tool scans a target IP address for open ports across the most commonly used TCP ports. It uses Python's "concurrent.futures" module to run scans in parallel, making it faster.
 
 ## Features
 
-- Multi-threaded scanning using `ThreadPoolExecutor`
+- Multi-threaded scanning using ThreadPoolExecutor
 - Scans 12 of the most common TCP ports
 - Displays scan start and end timestamps
 - Clean output
