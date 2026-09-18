@@ -12,7 +12,6 @@ This tool scans a target IP address for open ports across the most commonly used
 - Scans 12 of the most common TCP ports
 - Displays scan start and end timestamps
 - Clean output
-- 
 ## Usage
 
 ```bash
